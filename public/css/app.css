@@ -1,6 +1,7 @@
 * {
     margin: 0px;
     padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 h1,
@@ -173,9 +174,9 @@ p {
 }
 
 @media (max-width:428px) {
-    body {
+    /* body {
         width: 90vw;
-    }
+    } */
 
     .top_left_link {
         display: none;
@@ -227,10 +228,6 @@ p {
     }
 }
 
-
-*{
-    font-family: Arial, Helvetica, sans-serif;
-}
 
 
 /* section 4 & 5 start */
