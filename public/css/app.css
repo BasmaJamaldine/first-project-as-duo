@@ -173,9 +173,9 @@ p {
 }
 
 @media (max-width:428px) {
-    body {
+    /* body {
         width: 90vw;
-    }
+    } */
 
     .top_left_link {
         display: none;
@@ -288,12 +288,18 @@ p {
 }
 .section6 p{
     font-size: 11px;
+    color: white;
+
 }
 
 .section6-div1 .p1{
     font-size: 40px;
     font-weight: bold;
     margin-bottom: 0;
+    color: white;
+}
+.section6-div1 .p2{
+    color: white;
 
 }
 .section6 a{
