@@ -409,7 +409,7 @@ footer a{
 
 
 /* media */
-@media (max-width : 376px) {
+@media (max-width : 428px) {
     .section5,
     .section4{
         display: flex;
