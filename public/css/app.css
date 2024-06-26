@@ -244,7 +244,8 @@ p {
 }
 .section4 h4,
 .section5 h4{
-    margin-bottom: 0;
+    margin-bottom: 10px;
+
 
 }
 .section4 p,
@@ -285,10 +286,13 @@ p {
 }
 .section6 h2{
     font-size: 15px;
+    margin-bottom: 10px;
 }
 .section6 p{
     font-size: 11px;
     color: white;
+    margin-bottom: 10px;
+
 
 }
 
@@ -335,8 +339,7 @@ p {
 
 }
 .section7-left-part-divs img{
-    margin-top: 20px;
-    margin-right: 20px;
+  margin-right: 10px;
 }
 .section7-left-part-divs h4{
     margin-bottom: 0;
@@ -355,6 +358,7 @@ p {
     text-align: center;
     padding-top: 40px;
     padding-bottom: 40px;
+
 }
 .section8-p1{
     font-size: 10px;
@@ -362,7 +366,8 @@ p {
 
 }
 .section8 h1{
-    font-size: 18px;
+    font-size: 25px;
+    margin-bottom: 20px;
 }
 input{
     padding: 10px 50px;
@@ -375,6 +380,7 @@ input{
     border: none;
     margin-top: 10px;
     border-radius: 3px;
+    margin-bottom: 20px;
 }
 .section8-p2{
     font-size: 11px;
